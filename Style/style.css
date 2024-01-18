@@ -66,6 +66,7 @@
     font-size: 16px;
     font-style: normal;
     font-family: mulish;
+    height: 50px;width: 150px;
 }
 
 .text-heading {
@@ -116,11 +117,47 @@
     margin-bottom: 10px;
 }
 
+.our-speciality {
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-family: mulish;
+}
+
+.discount-offer {
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-family: mulish;
+}
+.Perfect-place {
+    display: flex;
+    text-align: justify;
+    font-size: 18px;
+    font-style: normal;
+    font-family: mulish;
+    align-items: center;
+    padding: 50px 300px;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.join-us {
+    display: flex;
+    text-align: justify;
+    font-size: 18px;
+    font-style: normal;
+    font-family: mulish;
+    align-items: center;
+    padding: 50px 300px;
+    justify-content: space-between;
+    gap: 20px;
+}
 
 
-
-
-
+  .form {
+    width: auto;margin-bottom: 5px;font-size: 18px;font-family: mulish;font-style: normal;font-weight: 400;
+  }
 
 
 
@@ -152,4 +189,10 @@
     font-style: normal;
     background-color: #rgba;
     padding: 300px
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
 }
